@@ -8,6 +8,6 @@ which in turn seeks to reproduce the results from the paper
 
 and the [associated source code](https://github.com/seb-becker/kolmogorov).
 
-<a href="https://colab.research.google.com/drive/1RawBUrWgVJI7YoljbOhZn3DAgWEQ4lZH?usp=sharing" target="_parent">
+<a href="https://colab.research.google.com/drive/1Snzst4zGj0i96eK9a5BZg88JCnitUQgv?usp=sharing" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
